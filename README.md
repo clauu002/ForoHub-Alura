@@ -19,17 +19,19 @@ El siguiente proyecto es la respuesta al Challenge ForoHub de Alura donde se rea
 <p> Funcionalidades que tiene: </p>
 
 <ol>
-<li> Crear un nuevo tópico </li>
+<p><li> Crear un nuevo tópico </li></p>
 
 ![image](https://github.com/user-attachments/assets/2fcdb3ea-0483-4b25-9e80-fb0d48742911)
 
 
 <li> Mostrar todos los tópicos creados</li>
 
-![image](https://github.com/user-attachments/assets/9a525afe-ab56-45fb-8393-bb97bdc1fdfc)
+![image](https://github.com/user-attachments/assets/14a00adf-c3d7-4bb1-8549-e1647c2eadac)
+
 
 
 <li> Mostrar un tópico específico </li>
+
 ![image](https://github.com/user-attachments/assets/aa4ea1c7-56b4-422b-8601-3cd2fb364f4e)
 
 
@@ -45,7 +47,8 @@ El siguiente proyecto es la respuesta al Challenge ForoHub de Alura donde se rea
 <ol>
 
 De igual forma cuenta con autenticacion de seguridad con una contraseña cifrada para que solo con ella se puedan hacer las modificaciones en base de datos.
-![image](https://github.com/user-attachments/assets/92c83c41-b565-43e7-af7b-4e8f54878e51)
+![image](https://github.com/user-attachments/assets/7f8d74ce-104d-4024-b892-8c67271e1312)
+
 
 
 
@@ -58,7 +61,7 @@ Se creo una base de datos para ser modificada y se utilizo insomnia para hacer l
 ![image](https://github.com/user-attachments/assets/14103c92-2d78-4268-93dc-6a8a89ccfdf8)
 
 
-<p> Datos adicionales para funcionamiento:
+<h1> Datos adicionales para funcionamiento: </h1>
 
 ![image](https://github.com/user-attachments/assets/2620e6f0-b242-43a4-8941-97e5951d1c51)
 
@@ -69,9 +72,19 @@ Independientemente de eso el proyecto se puede descargar en un zip, descomprimir
 ejecutar las pruebas con insomnia o postman y revisar la base de datos para ver los cambios.
 
 
-<img src="[https://i.pinimg.com/originals/80/66/e5/8066e5df061d27951e7ebfe0842a1e54.gif](https://64.media.tumblr.com/0d5af612f1779f1fac1e773cf59fd9ce/23ec4a266f6316f3-98/s540x810/3e90c82b7be98e968e4819e43519b37fd7d10c45.gif)" alt="">
+<img src="https://64.media.tumblr.com/0d5af612f1779f1fac1e773cf59fd9ce/23ec4a266f6316f3-98/s540x810/3e90c82b7be98e968e4819e43519b37fd7d10c45.gif" alt="">
 
 
 <h1> Con eso deberia ser suficiente para que funcione, saludos </h1>
+
+Tecnologias utilizadas:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Auth](https://img.shields.io/badge/Auth-4CAF50?style=for-the-badge&logo=key&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-4B8BBE?style=for-the-badge&logo=lock&logoColor=white)
+
 
 </div>
